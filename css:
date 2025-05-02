@@ -1,6 +1,1 @@
-
-body {
-    background-color: #f0f0f0;
-    font-family: Arial, sans-serif;
-    margin: 20px;
-}
+echo body { font-family: Arial; color: #333; } > style.css
